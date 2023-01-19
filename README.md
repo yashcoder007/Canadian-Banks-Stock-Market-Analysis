@@ -22,11 +22,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/yashcoder007/Canadian-Banks-Stock-Market-Analysis/total) ![Contributors](https://img.shields.io/github/contributors/yashcoder007/Canadian-Banks-Stock-Market-Analysis
-?color=dark-green) ![Forks](https://img.shields.io/github/forks/yashcoder007/Canadian-Banks-Stock-Market-Analysis
-?style=social) ![Stargazers](https://img.shields.io/github/stars/yashcoder007/Canadian-Banks-Stock-Market-Analysis
-?style=social) ![Issues](https://img.shields.io/github/issues/yashcoder007/Canadian-Banks-Stock-Market-Analysis
-) ![License](https://img.shields.io/github/license/yashcoder007/Canadian-Banks-Stock-Market-Analysis) 
+![Downloads](https://img.shields.io/github/downloads/yashcoder007/Canadian-Banks-Stock-Market-Analysis/total) ![Contributors](https://img.shields.io/github/contributors/yashcoder007/Canadian-Banks-Stock-Market-Analysis?color=dark-green) ![Forks](https://img.shields.io/github/forks/yashcoder007/Canadian-Banks-Stock-Market-Analysis?style=social) ![Stargazers](https://img.shields.io/github/stars/yashcoder007/Canadian-Banks-Stock-Market-Analysis?style=social) ![Issues](https://img.shields.io/github/issues/yashcoder007/Canadian-Banks-Stock-Market-Analysis) ![License](https://img.shields.io/github/license/yashcoder007/Canadian-Banks-Stock-Market-Analysis) 
 
 ## Table Of Contents
 
