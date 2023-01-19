@@ -64,7 +64,9 @@ Python
 * [pandas](https://pandas.pydata.org/)
 * [SciPy](https://scipy.org/)
 * [Matplotlib](https://matplotlib.org/)
-* [XGBoost](https://xgboost.readthedocs.io/en/stable/parameter.html)
+* [XGBoostRegressor](https://xgboost.readthedocs.io/en/stable/parameter.html)
+* SARIMA
+
 
 
 ## Getting Started
