@@ -15,9 +15,7 @@
 
 ">View Demo</a>
     .
-    <a href="https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis
-
-/issues">Report Bug</a>
+    <a href="https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis/issues"> Report Bug</a>
     .
   </p>
 </p>
