@@ -2,10 +2,10 @@
 
 <br/>
 <p align="center">
-  <h3 align="center">Risk level prediction in life insurance.</h3>
+  <h3 align="center">Tokyo stock exchange analysis and prediction.</h3>
 
   <p align="center">
-    Extensive EDA and feature engineering along with Machine Learning modelling using XGBoost, Stacked and Max Voting Model for risk level prediction.
+   EDA and feature engineering along with Machine Learning modelling using LightGBM for predicting the returns on different stocks.
     <br/>
     <br/>
     <a href="https://github.com/yashcoder007/Tokyo-Stock-Exchange-Prediction"><strong>Explore the docs »</strong></a>
@@ -20,7 +20,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/yashcoder007/Fraud-Transaction_Detection-using-machine-learning/total) ![Contributors](https://img.shields.io/github/contributors/yashcoder007/Risk-Prediction-in-Life-Insurance?color=dark-green) ![Forks](https://img.shields.io/github/forks/yashcoder007/Risk-Prediction-in-Life-Insurance?style=social) ![Stargazers](https://img.shields.io/github/stars/yashcoder007/Risk-Prediction-in-Life-Insurance?style=social) ![Issues](https://img.shields.io/github/issues/yashcoder007/Risk-Prediction-in-Life-Insurance) ![License](https://img.shields.io/github/license/yashcoder007/Risk-Prediction-in-Life-Insurance) 
+![Downloads](https://img.shields.io/github/downloads/yashcoder007/Tokyo-Stock-Exchange-Prediction/total) ![Contributors](https://img.shields.io/github/contributors/yashcoder007/Tokyo-Stock-Exchange-Prediction?color=dark-green) ![Forks](https://img.shields.io/github/forks/yashcoder007/Tokyo-Stock-Exchange-Prediction?style=social) ![Stargazers](https://img.shields.io/github/stars/yashcoder007/Tokyo-Stock-Exchange-Prediction?style=social) ![Issues](https://img.shields.io/github/issues/yashcoder007/Tokyo-Stock-Exchange-Prediction) ![License](https://img.shields.io/github/license/yashcoder007/Tokyo-Stock-Exchange-Prediction) 
 
 ## Table Of Contents
 
@@ -40,15 +40,15 @@
 ![Screen Shot](down1.png)
 ![Screen Shot](down2.png)
 
-The project's motivation was to predict the level of risk of clients based on the clients financial history, medical history of the family members, height, weight, BMI and several other factors like these. I designed an end-to-end data science modelling pipepline, starting from data cleaning, visualization, feature engineering to predictive modelling all combined in a jupyter notebook for ease of use. 
+The project's motivation was to predict the returns of around 2000 stocks. This experiment was performed on the realtime that was provided by the stock exchange company Japan Exchange Group.  I designed an end-to-end data science modelling pipepline, starting from data cleaning, visualization, feature engineering to predictive modelling all combined in a jupyter notebook for ease of use. 
 
 Firstly, I did extensive data cleaning and visualizations using libraries like Pandas, Matplotlib, Seaborn and NumPy. I created a lot of count plots, point plots, and other graphs.
 
-Secondly, I did some Feature Engineering and calculated feature importance with respect to several classifiers like Random Forest, XGBoost and Logistic Regression. I could identify the most important features involved in risk calculation.
+Secondly, I did some Feature Engineering using library called TA. The features were generated synthetically using all the 42 indicators based on volume, votality, trend, momentum etc. These features helped in increasing the accuracy of the model.
 
-Thirdly, I did hyperparameter tuning to find the best parameters for my model. The best parameters were then selected for all the three classifier.
+Thirdly, LightGBM model was trained using the generated features with minimal error.
 
-I compared 4 models - Random Forest, XGBoost, Logistic Regression, Max Voting and Stacked classifier out of which the Stacked classifier outperformed all the classifiers with an accuracy above 95%.
+Lastly, Data Visualizations were drawn for analysis.
 
 
 
@@ -79,8 +79,8 @@ The python libraries mentioned in Built With
 
 1. Download the dataset
 ```sh
-https://www.kaggle.com/competitions/prudential-life-insurance-assessment
-```
+https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction```
+
 2. Clone the repo
 
 ```sh
