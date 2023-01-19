@@ -8,17 +8,23 @@
     Extensive EDA and feature engineering along with Machine Learning modelling using XGBoost, Stacked and Max Voting Model for risk level prediction.
     <br/>
     <br/>
-    <a href="https://github.com/yashcoder007/Risk-Prediction-in-Life-Insurance"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/yashcoder007/Tokyo-Stock-Exchange-Prediction"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/yashcoder007/Risk-Prediction-in-Life-Insurance">View Demo</a>
+    <a href="https://github.com/yashcoder007/Tokyo-Stock-Exchange-Prediction
+">View Demo</a>
     .
-    <a href="https://github.com/yashcoder007/Risk-Prediction-in-Life-Insurance/issues">Report Bug</a>
+    <a href="https://github.com/yashcoder007/Tokyo-Stock-Exchange-Prediction
+/issues">Report Bug</a>
     .
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/yashcoder007/Fraud-Transaction_Detection-using-machine-learning/total) ![Contributors](https://img.shields.io/github/contributors/yashcoder007/Risk-Prediction-in-Life-Insurance?color=dark-green) ![Forks](https://img.shields.io/github/forks/yashcoder007/Risk-Prediction-in-Life-Insurance?style=social) ![Stargazers](https://img.shields.io/github/stars/yashcoder007/Risk-Prediction-in-Life-Insurance?style=social) ![Issues](https://img.shields.io/github/issues/yashcoder007/Risk-Prediction-in-Life-Insurance) ![License](https://img.shields.io/github/license/yashcoder007/Risk-Prediction-in-Life-Insurance) 
+![Downloads](https://img.shields.io/github/downloads/yashcoder007/Tokyo-Stock-Exchange-Prediction
+/total) ![Contributors](https://img.shields.io/github/contributors/yashcoder007/Tokyo-Stock-Exchange-Prediction
+?color=dark-green) ![Forks](https://img.shields.io/github/forks/yashcoder007/Tokyo-Stock-Exchange-Prediction
+?style=social) ![Stargazers](https://img.shields.io/github/stars/yashcoder007/Tokyo-Stock-Exchange-Prediction
+?style=social) ![Issues](https://img.shields.io/github/issues/yashcoder007/Tokyo-Stock-Exchange-Prediction) ![License](https://img.shields.io/github/license/yashcoder007/Tokyo-Stock-Exchange-Prediction) 
 
 ## Table Of Contents
 
@@ -35,8 +41,8 @@
 
 ## About The Project
 
-![Screen Shot](download.png)
-![Screen Shot](download1.png)
+![Screen Shot](download(1).png)
+![Screen Shot](download(2).png)
 
 The project's motivation was to predict the level of risk of clients based on the clients financial history, medical history of the family members, height, weight, BMI and several other factors like these. I designed an end-to-end data science modelling pipepline, starting from data cleaning, visualization, feature engineering to predictive modelling all combined in a jupyter notebook for ease of use. 
 
@@ -82,7 +88,7 @@ https://www.kaggle.com/competitions/prudential-life-insurance-assessment
 2. Clone the repo
 
 ```sh
-https://github.com/yashcoder007/Risk-Prediction-in-Life-Insurance.git
+https://github.com/yashcoder007/Tokyo-Stock-Exchange-Prediction.git
 ```
 3. Install packages using  conda or pip.
 For example:  "pip install -U scikit-learn" or "conda install -c conda-forge scikit-learn"
@@ -109,7 +115,7 @@ Contributions are what make the open source community such an amazing place to b
 * If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/yashcoder007/Risk-Prediction-in-Life-Insurance/issues) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/yashcoder007/Risk-Prediction-in-Life-Insurance/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+* Please also read through the [Code Of Conduct](https://github.com/yashcoder007/Tokyo-Stock-Exchange-Prediction.git/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
@@ -121,7 +127,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/yashcoder007/Risk-Prediction-in-Life-Insurance/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/yashcoder007/Tokyo-Stock-Exchange-Prediction.git/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
