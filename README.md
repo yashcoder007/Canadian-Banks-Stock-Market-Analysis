@@ -20,11 +20,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/yashcoder007/Tokyo-Stock-Exchange-Prediction
-/total) ![Contributors](https://img.shields.io/github/contributors/yashcoder007/Tokyo-Stock-Exchange-Prediction
-?color=dark-green) ![Forks](https://img.shields.io/github/forks/yashcoder007/Tokyo-Stock-Exchange-Prediction
-?style=social) ![Stargazers](https://img.shields.io/github/stars/yashcoder007/Tokyo-Stock-Exchange-Prediction
-?style=social) ![Issues](https://img.shields.io/github/issues/yashcoder007/Tokyo-Stock-Exchange-Prediction) ![License](https://img.shields.io/github/license/yashcoder007/Tokyo-Stock-Exchange-Prediction) 
+![Downloads](https://img.shields.io/github/downloads/yashcoder007/Fraud-Transaction_Detection-using-machine-learning/total) ![Contributors](https://img.shields.io/github/contributors/yashcoder007/Risk-Prediction-in-Life-Insurance?color=dark-green) ![Forks](https://img.shields.io/github/forks/yashcoder007/Risk-Prediction-in-Life-Insurance?style=social) ![Stargazers](https://img.shields.io/github/stars/yashcoder007/Risk-Prediction-in-Life-Insurance?style=social) ![Issues](https://img.shields.io/github/issues/yashcoder007/Risk-Prediction-in-Life-Insurance) ![License](https://img.shields.io/github/license/yashcoder007/Risk-Prediction-in-Life-Insurance) 
 
 ## Table Of Contents
 
