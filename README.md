@@ -1,4 +1,4 @@
-# Tokyo-Stock-Exchange-Price-Prediction
+# Canadian-Banks-Stock-Market-Analysis
 
 <br/>
 <p align="center">
@@ -8,19 +8,25 @@
    EDA and feature engineering along with Machine Learning modelling using LightGBM for predicting the returns on different stocks.
     <br/>
     <br/>
-    <a href="https://github.com/yashcoder007/Tokyo-Stock-Exchange-Prediction"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/yashcoder007/Tokyo-Stock-Exchange-Prediction
+    <a href="https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis
+
 ">View Demo</a>
     .
-    <a href="https://github.com/yashcoder007/Tokyo-Stock-Exchange-Prediction
+    <a href="https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis
+
 /issues">Report Bug</a>
     .
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/yashcoder007/Tokyo-Stock-Exchange-Prediction/total) ![Contributors](https://img.shields.io/github/contributors/yashcoder007/Tokyo-Stock-Exchange-Prediction?color=dark-green) ![Forks](https://img.shields.io/github/forks/yashcoder007/Tokyo-Stock-Exchange-Prediction?style=social) ![Stargazers](https://img.shields.io/github/stars/yashcoder007/Tokyo-Stock-Exchange-Prediction?style=social) ![Issues](https://img.shields.io/github/issues/yashcoder007/Tokyo-Stock-Exchange-Prediction) ![License](https://img.shields.io/github/license/yashcoder007/Tokyo-Stock-Exchange-Prediction) 
+![Downloads](https://img.shields.io/github/downloads/yashcoder007/Canadian-Banks-Stock-Market-Analysis/total) ![Contributors](https://img.shields.io/github/contributors/yashcoder007/Canadian-Banks-Stock-Market-Analysis
+?color=dark-green) ![Forks](https://img.shields.io/github/forks/yashcoder007/Canadian-Banks-Stock-Market-Analysis
+?style=social) ![Stargazers](https://img.shields.io/github/stars/yashcoder007/Canadian-Banks-Stock-Market-Analysis
+?style=social) ![Issues](https://img.shields.io/github/issues/yashcoder007/Canadian-Banks-Stock-Market-Analysis
+) ![License](https://img.shields.io/github/license/yashcoder007/Canadian-Banks-Stock-Market-Analysis) 
 
 ## Table Of Contents
 
@@ -84,7 +90,7 @@ https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction```
 2. Clone the repo
 
 ```sh
-https://github.com/yashcoder007/Tokyo-Stock-Exchange-Prediction.git
+https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis.git
 ```
 3. Install packages using  conda or pip.
 For example:  "pip install -U scikit-learn" or "conda install -c conda-forge scikit-learn"
@@ -96,6 +102,8 @@ For example:  "pip install -U scikit-learn" or "conda install -c conda-forge sci
             SciPy
             Matplotlib
             LightGBM
+            SARIMA
+            XGBoostRegressor
 
 ## Usage
 
@@ -108,10 +116,11 @@ For example:  "pip install -U scikit-learn" or "conda install -c conda-forge sci
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/yashcoder007/Risk-Prediction-in-Life-Insurance/issues) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis
+/issues) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/yashcoder007/Tokyo-Stock-Exchange-Prediction.git/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+* Please also read through the [Code Of Conduct](https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis.git/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
@@ -123,7 +132,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/yashcoder007/Tokyo-Stock-Exchange-Prediction.git/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis.git/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
