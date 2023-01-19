@@ -41,8 +41,8 @@
 
 ## About The Project
 
-![Screen Shot](download  (1).png)
-![Screen Shot](download  (2).png)
+![Screen Shot](down1.png)
+![Screen Shot](down2.png)
 
 The project's motivation was to predict the level of risk of clients based on the clients financial history, medical history of the family members, height, weight, BMI and several other factors like these. I designed an end-to-end data science modelling pipepline, starting from data cleaning, visualization, feature engineering to predictive modelling all combined in a jupyter notebook for ease of use. 
 
