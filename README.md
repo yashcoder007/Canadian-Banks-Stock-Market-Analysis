@@ -81,7 +81,7 @@ The python libraries mentioned in Built With
 
 1. Download the dataset
 ```sh
-https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction```
+https://www.macrotrends.net/stocks/charts/RY/royal-bank-of-canada/stock-price-history```
 
 2. Clone the repo
 
