@@ -37,7 +37,7 @@
 
 ## About The Project
 
-![Screen Shot](down1.png)
+![Screen Shot](T.png)
 
 
 The project's motivation was to future forecast the average stock prices of TD, Scotia and RBC bank. Time series analysis is done using the state of the art SARIMA and XGBoost. Three months of future forecasting is done using regression models. 
