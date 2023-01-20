@@ -2,10 +2,10 @@
 
 <br/>
 <p align="center">
-  <h3 align="center">Tokyo stock exchange analysis and prediction.</h3>
+  <h3 align="center">Analyzing average stock prices of TD, RBC and Scotia Bank.</h3>
 
   <p align="center">
-   EDA and feature engineering along with Machine Learning modelling using LightGBM for predicting the returns on different stocks.
+   Predictive analysis for time series forcasting using SARIMA and XGBoost machine learning models.
     <br/>
     <br/>
     <a href="https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis"><strong>Explore the docs »</strong></a>
@@ -38,15 +38,15 @@
 ## About The Project
 
 ![Screen Shot](down1.png)
-![Screen Shot](down2.png)
 
-The project's motivation was to predict the returns of around 2000 stocks. This experiment was performed on the realtime that was provided by the stock exchange company Japan Exchange Group.  I designed an end-to-end data science modelling pipepline, starting from data cleaning, visualization, feature engineering to predictive modelling all combined in a jupyter notebook for ease of use. 
+
+The project's motivation was to future forecast the average stock prices of TD, Scotia and RBC bank. Time series analysis is done using the state of the art SARIMA and XGBoost. Three months of future forecasting is done using regression models. 
 
 Firstly, I did extensive data cleaning and visualizations using libraries like Pandas, Matplotlib, Seaborn and NumPy. I created a lot of count plots, point plots, and other graphs.
 
-Secondly, I did some Feature Engineering using library called TA. The features were generated synthetically using all the 42 indicators based on volume, votality, trend, momentum etc. These features helped in increasing the accuracy of the model.
+Secondly, I did some Feature Engineering and Manual Hyperparameter tuning. These features helped in increasing the accuracy of the model.
 
-Thirdly, LightGBM model was trained using the generated features with minimal error.
+Thirdly, the SARIMA and XGBoost Regressor were trained on the time series data and prediction. The models performed at a mean squared error of less than 1.5 %.
 
 Lastly, Data Visualizations were drawn for analysis.
 
@@ -97,7 +97,6 @@ For example:  "pip install -U scikit-learn" or "conda install -c conda-forge sci
             pandas
             SciPy
             Matplotlib
-            LightGBM
             SARIMA
             XGBoostRegressor
 
