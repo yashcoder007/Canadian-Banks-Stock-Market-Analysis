@@ -56,8 +56,8 @@ Lastly, Data Visualizations was done.
 
 ## Built With
 
-Python
 
+*[python](https://www.python.org/)
 * [jupyter ](https://jupyter.org/)
 * [scikit-learn](https://scikit-learn.org/stable/)
 * [Numpy](https://numpy.org/)
