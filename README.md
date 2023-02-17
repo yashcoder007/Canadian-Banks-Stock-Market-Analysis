@@ -48,7 +48,7 @@ Secondly, I did some Feature Engineering and Manual Hyperparameter tuning. These
 
 Thirdly, the SARIMA and XGBoost Regressor were trained on the time series data and prediction. The models performed at a mean squared error of less than 1.5 %.
 
-Lastly, Data Visualizations were drawn for analysis.
+Lastly, Data Visualizations was done.
 
 
 
